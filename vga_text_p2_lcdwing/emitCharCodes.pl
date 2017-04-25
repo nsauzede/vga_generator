@@ -3,7 +3,7 @@
 my @lines = (
 	"01 =============================================================================",
 	"02 | This is a test of the VGA Text Generator                                  |",
-	"03 | Written by Kevin Lindsey <kevin@kevlindev.com>                            |",
+	"03 | Written by Kevin Lindsey <kevin\@kevlindev.com>                            |",
 	"04 | https://github.com/thelonious/vga_generator                               |",
 	"05 |                                                                           |",
 	"06 | Running on the Papilio Duo (s6lx9)                                        |",
