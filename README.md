@@ -1,4 +1,4 @@
-# VHDL Projects for the Papilio One/Duo VGA Wing / Classic Computing shield (w/ VGA)
+# VHDL Projects for the Papilio One/Duo VGA Wing / Classic Computing shield (w/ VGA) / LCD Wing
 
 This repo contains multiple VGA projects that use the Papilio One/Duo and the VGA Wing/Classic Computing Shield.
 
@@ -6,6 +6,7 @@ This repo contains multiple VGA projects that use the Papilio One/Duo and the VG
 * VGA Text - Generates text via a font ROM and values in BRAM
 * VGA Text P1 CCshield - Same as VGA Text, but uses a Classic Computing Shield (originally for Papilio Duo)
 * VGA Text P2 CCshield - Same as VGA Text, but uses a Classic Computing Shield and a Papilio Duo
+* VGA Text P2 LCD wing - Same as VGA Text, but uses an LCD wing and a Papilio Duo
 
 ## Links
 
@@ -13,3 +14,4 @@ This repo contains multiple VGA projects that use the Papilio One/Duo and the VG
 * [Papilio Duo](http://papilio.cc/index.php?n=Papilio.DUOStart)
 * [VGA Wing](http://papilio.cc/index.php?n=Papilio.VGAWing)
 * [Classic Computing Shield (VGA)](http://papilio.cc/index.php?n=Papilio.ClassicComputingShield#vga)
+* [Papilio LCD wing (Sharp LCD screens)](https://www.logre.eu/wiki/Ecran_Sharp_LQ084V1DG21/en)
