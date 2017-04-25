@@ -9,6 +9,8 @@ This project builds upon work in the VGA Text project and does the following:
 * Defines a buffer of 7-bit values use to represent the 80x30 characters on the screen
 * Currently, all text is white, but any of the 4096 available colors could be used.
 
+![Papilio Duo + LCD wing on a Sharp LCD screen](duo_lcd_vga.jpg)
+
 ## Links
 
 * [Papilio Duo](http://papilio.cc/index.php?n=Papilio.DUOStart)
