@@ -112,7 +112,7 @@ begin
 			end if;
 		end if;
 	end process;
-	
+
 	rgb <= rgb_reg;
 	vga_hsync <= hsync;
 	vga_vsync <= vsync;
