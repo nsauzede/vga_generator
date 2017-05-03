@@ -46,11 +46,11 @@ foreach my $line (@lines) {
 	for (my $i = 0; $i <= $length; $i++) {
 		my $col=0x07;
 		my $chr=ord($chars[$i]);
-		if ($chr==ord('V')) {
+		if (($chr & ~0x20)==ord('R')) {
 			$col=0x01;
-		} elsif ($chr==ord('G')) {
+		} elsif (($chr & ~0x20)==ord('G')) {
 			$col=0x02;
-		} elsif ($chr==ord('A')) {
+		} elsif (($chr & ~0x20)==ord('B')) {
 			$col=0x04;
 		}
 		emitChar($chr,$col);
